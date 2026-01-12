@@ -1,15 +1,21 @@
-# Islamic Education
+# ISLAM-EDUCATION.COM
 
-Welcome to islam-education.com
+islam-education.com is a non-commercial educational project
+dedicated to providing clear, authentic, and accessible
+knowledge about Islam.
 
-This website is dedicated to providing clear, authentic,
-and accessible knowledge about Islam.
+This website is designed for:
+- people seeking to understand Islam
+- students and educators
+- Muslims and non-Muslims alike
 
-It is created as a long-term educational project
-and may be freely shared for beneficial purposes.
+The content is presented in a calm, factual, and respectful manner.
+It is intended to be beneficial today and in the future.
 
 ## What you will find here
-- Foundations of Islam
-- Belief and practice
-- Ethics and character
-- Educational videos and explanations
+- The foundations of Islamic belief
+- Daily practices and ethics
+- Clear explanations of common misconceptions
+- Historical and spiritual perspectives
+
+Knowledge shared for understanding, reflection, and benefit.

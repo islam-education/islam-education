@@ -1,7 +1,13 @@
-site_name: Islam Education
+site_name: Islamic Education
+site_description: Clear and accessible knowledge about Islam
+site_url: https://islam-education.com
+
 theme:
   name: material
+  language: en
 
 nav:
   - Home: index.md
+  - Learn:
+      - The Shahada: learn/shahada.md
   - About: about.md

@@ -17,8 +17,7 @@ Cultural practices should not be confused with religious teachings.
 Furthermore, men and women have their own individual talents and responsibilities.
 
 ## Jihad
-The word *jihad* means "struggle".
-It can be the spiritual struggle within oneself against sin.
-Its primary meaning refers to personal moral effort,
-not warfare. Protection of the Islamic community in various manners.
+The word "*jihad*" means "struggle".
+It can be the spiritual struggle within oneself against sin or the protection of the Islamic community in various manners.
+Its primary meaning refers to personal moral effort, not warfare. 
 

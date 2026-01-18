@@ -7,18 +7,18 @@
   Rather, he is regarded as a messenger, just like Jesus Christ, who conveyed God's message.
 
 ## His Role
-Muslims believe Muhammad ﷺ:
-  - received revelation from God
-  - taught monotheism
-  - exemplified moral character
-  - lived a life of humility and integrity
+Muslims believe Muhammad ﷺ:<br> 
+  - received revelation from God <br> 
+  - taught monotheism <br> 
+  - exemplified moral character <br> 
+  - lived a life of humility and integrity <br> 
 
 ## His Character
-Historical accounts describe him as: <br> (hier soll bracket stehen)
-  - truthful
-  - trustworthy
-  - merciful
-  - patient
+Historical accounts describe him as: <br> 
+  - truthful <br> 
+  - trustworthy <br> 
+  - merciful <br> 
+  - patient <br> 
   - just
 
 Muslims strive to follow his example in ethics and conduct,

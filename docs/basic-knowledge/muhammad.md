@@ -14,7 +14,7 @@ Muslims believe Muhammad ﷺ:
   - lived a life of humility and integrity
 
 ## His Character
-Historical accounts describe him as: <br>
+Historical accounts describe him as: <br> (hier soll bracket stehen)
   - truthful
   - trustworthy
   - merciful

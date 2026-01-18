@@ -8,8 +8,8 @@
 
 /* Image itself */
 .ie-hero img {
-  width: 50%;
-  max-height: 520px;
+  width: 50px;
+  max-height: 50px;
   object-fit: contain;
 }
 

@@ -6,6 +6,13 @@ theme:
   name: material
   language: en
 
+
+extra_css:
+  - stylesheets/extra.css
+
+
+
+
 nav:
   - Home: index.md
 

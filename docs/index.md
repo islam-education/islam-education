@@ -1,8 +1,16 @@
+
+
 # ISLAM-EDUCATION.COM
 
 islam-education.com is a non-commercial educational project
 dedicated to providing clear, authentic, and accessible
 knowledge about Islam.
+
+<div class="ie-hero">
+  <img src="/images/hero/islam-education-hero.png"
+       alt="Geometric illustration representing Islamic education and learning">
+</div>
+
 
 This website is designed for:
 - people seeking to understand Islam

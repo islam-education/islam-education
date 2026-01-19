@@ -1,5 +1,10 @@
 # Who Is Muhammad ﷺ?
 
+<div class="ie-hero">
+  <img src="/who-is-muhammad.png"
+       alt="Geometric illustration of the prophet peace be upon him">
+</div>
+
   Muhammad ibn Abdullah ("son of Abdullah"), was born in Mecca in the 6th century.
   Muslims believe he is the final prophet sent by God. He is not worshipped.
   Rather, he is regarded as a messenger, just like Jesus Christ, who conveyed God's message.
@@ -38,4 +43,4 @@ Muslims use it as a sign of respect and veneration whenever the name of the Prop
   - "SAW" or "SAWS" (Sallallahu Alaihi Wasallam) <br> 
 
 <br>
-#ISLAM-EDUCATION.COM
+ISLAM-EDUCATION.COM

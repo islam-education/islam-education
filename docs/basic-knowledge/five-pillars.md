@@ -5,14 +5,14 @@
 </div>
 
 
-Decleration of Faith (Shahada) <br>
-Prayer (Salah) <br>
-Charity (Zakat) <br>
-Fasting (Sawm) <br>
-Pilgrimage (Hajj) <br>
+1) Decleration of Faith (Shahada) <br>
+2) Prayer (Salah) <br>
+3) Charity (Zakat) <br>
+4) Fasting (Sawm) <br>
+5) Pilgrimage (Hajj) <br>
 
 
-# Shahada (Declaration of Faith)
+## Shahada (Declaration of Faith)
 
 The Shahada is the foundation of Islam.
 
@@ -22,7 +22,7 @@ It states:
 Arabic transliteration: ("Ash-hadu an la ilaha illa Allah, Wa ash-hadu anna Muhammadan Rasulu-Allah.")
 
 
-## Meaning
+Meaning
 The Shahada affirms:
 - absolute monotheism
 - rejection of all forms of idol worship
@@ -39,11 +39,11 @@ conviction, and sincerity.
 
 
 
-# Prayer (Salah)
+## Prayer (Salah)
 
-# Charity (Zakat)
+## Charity (Zakat)
 
-# Fasting (Sawm)
+## Fasting (Sawm)
 
-# Pilgrimage (Hajj)
+## Pilgrimage (Hajj)
 

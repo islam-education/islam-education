@@ -1,5 +1,5 @@
 <div class="ie-hero">
-  <img src="/images/hero/islam-education-hero.png"
+  <img src="/images/islam-education-hero.png"
        alt="Geometric illustration representing Islamic education and learning">
 </div>
 

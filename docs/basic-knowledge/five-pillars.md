@@ -12,24 +12,23 @@
 5) Pilgrimage (Hajj) <br>
 
 
-## Shahada (Declaration of Faith)
+## 1 Shahada (Declaration of Faith)
 
 The Shahada is the foundation of Islam.
 
-It states:
-“I testify that there is no deity worthy of worship except Allah, and I testify that Muhammad is the Messenger of Allah.”
+It states:<br>
+<b> “I testify that there is no deity worthy of worship except Allah, and I testify that Muhammad is the Messenger of Allah.” </b>
 
-Arabic transliteration: ("Ash-hadu an la ilaha illa Allah, Wa ash-hadu anna Muhammadan Rasulu-Allah.")
+Arabic transliteration: <br>
+<b>("Ash-hadu an la ilaha illa Allah, Wa ash-hadu anna Muhammadan Rasulu-Allah.")</b>
 
 
-Meaning
-The Shahada affirms:
-- absolute monotheism
-- rejection of all forms of idol worship
-- acceptance of divine guidance through prophets (like Muhammad, Jesus, Abraham, Moses, Noah, ...)
+The Shahada affirms:<br>
+- absolute monotheism<br>
+- rejection of all forms of idol worship<br>
+- acceptance of divine guidance through prophets (like Muhammad, Jesus, Abraham, Moses, Noah, ...)<br>
 
-By sincerely affirming this belief,
-a person enters Islam and all their previous sins are forgiven.
+By sincerely affirming this belief, a person enters Islam and all their previous sins are forgiven.
 These Muslims are also called "Reverts" because they returned to the previous state of beeing a Muslim.
 (Muslims believe everybody is born as a Muslim)
 
@@ -39,11 +38,11 @@ conviction, and sincerity.
 
 
 
-## Prayer (Salah)
+## 2 Prayer (Salah)
 
-## Charity (Zakat)
+## 3 Charity (Zakat)
 
-## Fasting (Sawm)
+## 4 Fasting (Sawm)
 
-## Pilgrimage (Hajj)
+## 5 Pilgrimage (Hajj)
 

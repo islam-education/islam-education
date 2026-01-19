@@ -1,3 +1,17 @@
+
+<div class="five-pillars">
+  <img src="/images/five-pillars.png"
+       alt="Geometric illustration representing the five islamic pillars">
+</div>
+
+
+Decleration of Faith (Shahada) <br>
+Prayer (Salah) <br>
+Charity (Zakat) <br>
+Fasting (Sawm) <br>
+Pilgrimage (Hajj) <br>
+
+
 # Shahada (Declaration of Faith)
 
 The Shahada is the foundation of Islam.
@@ -21,3 +35,15 @@ These Muslims are also called "Reverts" because they returned to the previous st
 
 Faith in Islam begins with knowledge,
 conviction, and sincerity.
+
+
+
+
+# Prayer (Salah)
+
+# Charity (Zakat)
+
+# Fasting (Sawm)
+
+# Pilgrimage (Hajj)
+

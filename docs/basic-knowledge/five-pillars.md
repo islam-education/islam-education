@@ -1,9 +1,7 @@
-
 <div class="five-pillars">
   <img src="/images/five-pillars.png"
        alt="Geometric illustration representing the five islamic pillars">
 </div>
-
 
 1) Decleration of Faith (Shahada) <br>
 2) Prayer (Salah) <br>

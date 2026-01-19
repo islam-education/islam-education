@@ -1,7 +1,7 @@
 # Who Is Muhammad ﷺ?
 
-<div class="ie-hero">
-  <img src="/who-is-muhammad.png"
+<div class="prophet">
+  <img src="/images/who-is-muhammad.png"
        alt="Geometric illustration of the prophet peace be upon him">
 </div>
 

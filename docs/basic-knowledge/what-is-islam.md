@@ -1,5 +1,10 @@
 # What Is Islam?
 
+<div class="five-pillars">
+  <img src="/images/five-pillars.png"
+       alt="Geometric illustration representing the five islamic pillars">
+</div>
+
 Islam is a monotheistic faith centered on the belief in one God,
 known in Arabic as *Allah*.
 

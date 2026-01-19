@@ -1,6 +1,18 @@
+
+
+
+.ie-hero {
+  margin: 1.2rem 0 1.2rem;
+  border-radius: 18px;
+  overflow: hidden;
+  box-shadow: 0 10px 30px rgba(0,0,0,.12);
+
+
+}
+
 .ie-hero img {
-  width: 50%;
-  height: 50%;
+  width: 100%;
+  height: 100%;
   object-fit: cover;
   object-position: center top;
   display: block;

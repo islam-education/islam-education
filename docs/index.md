@@ -21,8 +21,12 @@ It is intended to be beneficial today and in the future. Knowledge shared for un
 ## This website is designed for: <br>
 - people seeking to understand Islam <br>
 - students and educators <br>
-- Muslims and non-Muslims alike<br> 
+- Muslims and non-Muslims alike <br> 
 
+<br>
+<br>
+<br>
+<br>
 
 
 

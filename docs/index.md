@@ -2,10 +2,15 @@
 
 #ISLAM-EDUCATION.COM
 
+<div class="ie-hero">
+  <img src="/images/hero/islam-education-hero.png"
+       alt="Geometric illustration representing Islamic education and learning">
+</div>
+
 <b> islam-education.com </b> is a non-commercial educational project
 dedicated to providing clear, authentic, and accessible
 knowledge about Islam. The content is presented in a calm, factual, and respectful manner.
-It is intended to be beneficial today and in the future. <br> Knowledge shared for understanding, reflection, and benefit. 
+It is intended to be beneficial today and in the future. Knowledge shared for understanding, reflection, and benefit. 
 
 ## What you will find here <br>
 - The foundations of Islamic belief <br>
@@ -20,11 +25,6 @@ It is intended to be beneficial today and in the future. <br> Knowledge shared f
 
 
 
-
-<div class="ie-hero">
-  <img src="/images/hero/islam-education-hero.png"
-       alt="Geometric illustration representing Islamic education and learning">
-</div>
 
 
 

@@ -35,8 +35,9 @@ This phrase is an Islamic honorific that translates to:
 
 Muslims use it as a sign of respect and veneration whenever the name of the Prophet Muhammad is mentioned, whether in speech or in writing, as commanded in the Quran. <br>
 
-  Common English abbreviations for this phrase include: 
-  - "PBUH" (Peace Be Upon Him)
-   &#x2022; "SAW" or "SAWS" (Sallallahu Alaihi Wasallam)
+  Common English abbreviations for this phrase include: <br> 
+  - "PBUH" (Peace Be Upon Him) <br>
+  - "SAW" or "SAWS" (Sallallahu Alaihi Wasallam) <br> 
 
-
+<br>
+#ISLAM-EDUCATION.COM

@@ -1,36 +1,3 @@
-/* Hero wrapper */
-.ie-hero {
-  margin: 1.2rem 0 1.2rem;
-  border-radius: 180px;
-  overflow: hidden;
-  box-shadow: 0 10px 30px rgba(0,0,0,.12);
-}
-
-/* Image itself */
-.ie-hero img {
-  display: block;
-  width: 100%;
-  height: auto;
-}
-
-/* Optional: keep it calm in dark mode (Material theme supports data-md-color-scheme) */
-[data-md-color-scheme="slate"] .ie-hero {
-  box-shadow: 0 10px 30px rgba(0,0,0,.35);
-}
-
-
-
-
-.ie-hero {
-  margin: 1.2rem 0 1.2rem;
-  border-radius: 18px;
-  overflow: hidden;
-  box-shadow: 0 10px 30px rgba(0,0,0,.12);
-
-  /* NEU */
-/* max-height: 520px;*/
-}
-
 .ie-hero img {
   width: 100%;
   height: 100%;

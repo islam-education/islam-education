@@ -14,29 +14,17 @@ extra_css:
 
 
 nav:
-  - Home: index.md
-
-  - Basic Knowledge:
+      - Home: index.md
       - What is Islam?: basic-knowledge/what-is-islam.md
       - Who is Muhammad ﷺ?: basic-knowledge/muhammad.md
       - The Qur’an: basic-knowledge/quran.md
-      - The Five Pillars: basic-knowledge/pillars/five-pillars.md
-
-  - Ethics & Life:
+      - The Five Pillars: basic-knowledge/five-pillars.md
       - Morals & Character: ethics-life/morals.md
       - Daily Life of a Muslim: ethics-life/daily-life.md
-
-  - Clarifications:
       - Common Misconceptions: clarifications/misconceptions.md
-
-  - Knowledge:
       - Islamic History: knowledge/history.md
       - Law (Basics): knowledge/law-basics.md
       - Spirituality (Ihsan): knowledge/spirituality.md
-
-  - Media:
       - Videos: media/videos.md
-
-  - About:
       - About the Project: about/project.md
       - Support: about/support.md

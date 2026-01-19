@@ -1,6 +1,6 @@
 
 
-# WWW.ISLAM-EDUCATION.COM
+#ISLAM-EDUCATION.COM
 
 <b> islam-education.com </b> is a non-commercial educational project
 dedicated to providing clear, authentic, and accessible

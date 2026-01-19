@@ -4,9 +4,8 @@
 
 islam-education.com is a non-commercial educational project
 dedicated to providing clear, authentic, and accessible
-knowledge about Islam.
-
-
+knowledge about Islam. The content is presented in a calm, factual, and respectful manner.
+It is intended to be beneficial today and in the future.
 
 
 This website is designed for: <br>
@@ -14,8 +13,6 @@ This website is designed for: <br>
 - students and educators <br>
 - Muslims and non-Muslims alike<br> 
 
-The content is presented in a calm, factual, and respectful manner.
-It is intended to be beneficial today and in the future.
 
 ## What you will find here <br>
 - The foundations of Islamic belief <br>

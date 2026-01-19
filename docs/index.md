@@ -2,9 +2,10 @@
 
 # ISLAM-EDUCATION.COM
 
-</p></strong> islam-education.com </strong> is a non-commercial educational project
+islam-education.com  is a non-commercial educational project
 dedicated to providing clear, authentic, and accessible
-knowledge about Islam. </p> <br>
+knowledge about Islam. The content is presented in a calm, factual, and respectful manner.
+It is intended to be beneficial today and in the future. Knowledge shared for understanding, reflection, and benefit. <b>
 
 ## What you will find here <br>
 - The foundations of Islamic belief <br>
@@ -26,5 +27,4 @@ knowledge about Islam. </p> <br>
 </div>
 
 
-The content is presented in a calm, factual, and respectful manner.
-It is intended to be beneficial today and in the future. Knowledge shared for understanding, reflection, and benefit.
+

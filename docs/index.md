@@ -21,7 +21,3 @@ It is intended to be beneficial today and in the future. Knowledge shared for un
 
 <br>
 ISLAM-EDUCATION.COM
-
-
-
-

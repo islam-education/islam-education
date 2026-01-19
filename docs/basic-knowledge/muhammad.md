@@ -1,6 +1,6 @@
 # Who Is Muhammad ﷺ?
 
-  Muhammad ibn Abdullah ("son of Abdullah"),was born in Mecca in the 6th century.
+  Muhammad ibn Abdullah ("son of Abdullah"), was born in Mecca in the 6th century.
   Muslims believe he is the final prophet sent by God. He is not worshipped.
   Rather, he is regarded as a messenger, just like Jesus Christ, who conveyed God's message.
 

@@ -20,13 +20,7 @@ nav:
       - What is Islam?: basic-knowledge/what-is-islam.md
       - Who is Muhammad ﷺ?: basic-knowledge/muhammad.md
       - The Qur’an: basic-knowledge/quran.md
-      - The Five Pillars:
-          - Shahada: basic-knowledge/pillars/shahada.md
-          - Prayer (Salah): basic-knowledge/pillars/prayer.md
-          - Charity (Zakah): basic-knowledge/pillars/charity.md
-          - Fasting (Ramadan): basic-knowledge/pillars/fasting.md
-          - Pilgrimage (Hajj): basic-knowledge/pillars/hajj.md
-      - Articles of Faith: basic-knowledge/articles-of-faith.md
+      - The Five Pillars: basic-knowledge/pillars/five-pillars.md
 
   - Ethics & Life:
       - Morals & Character: ethics-life/morals.md

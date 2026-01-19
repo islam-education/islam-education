@@ -1,8 +1,8 @@
 # What Is Islam?
 
-<div class="five-pillars">
-  <img src="/images/five-pillars.png"
-       alt="Geometric illustration representing the five islamic pillars">
+<div class="what-is-islam">
+  <img src="/images/what-is-islam.png"
+       alt="Geometric illustration - what is islam?">
 </div>
 
 Islam is a monotheistic faith centered on the belief in one God,
@@ -35,4 +35,4 @@ Islam emphasizes accountability, compassion, and justice,
 both on a personal and social level.
 
 <br>
-#ISLAM-EDUCATION.COM
+ISLAM-EDUCATION.COM

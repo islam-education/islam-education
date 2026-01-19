@@ -1,7 +1,3 @@
-
-
-#ISLAM-EDUCATION.COM
-
 <div class="ie-hero">
   <img src="/images/hero/islam-education-hero.png"
        alt="Geometric illustration representing Islamic education and learning">
@@ -24,10 +20,7 @@ It is intended to be beneficial today and in the future. Knowledge shared for un
 - Muslims and non-Muslims alike <br> 
 
 <br>
-<br>
-<br>
-<br>
-
+#ISLAM-EDUCATION.COM
 
 
 

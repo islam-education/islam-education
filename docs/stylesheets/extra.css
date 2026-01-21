@@ -4,6 +4,11 @@
 }
 
 
+.md-nav__title {
+  display: none;
+}
+
+
 
 /* Hero wrapper */
 .ie-hero {

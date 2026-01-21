@@ -29,8 +29,8 @@ In Islam, **Abraham (Ibrahim)** is one of the most important prophets. He is kno
 <br>
 
 Abraham is closely connected to the origins of monotheistic faith.<br>
-Muslims also associate Abraham with:
-- The legacy of worship centered on Mecca  
+Muslims also associate Abraham with:<br>
+- The legacy of worship centered on Mecca  <br>
 - Lessons about sacrifice, patience, and obedience to God  
 
 <br><br>
@@ -44,14 +44,14 @@ Moses (Musa) — Peace be upon him
 **Approximate period:** Ancient era (exact dates unknown)<br>
 
 In Islam, **Moses (Musa)** is a major prophet who delivered God’s message to his people.<br>
-He is known for:
+He is known for:<br>
 - Calling people to worship God alone  
 - Receiving revelation and guidance  
 - Standing against oppression  
 
 <br>
 
-The Qur’an mentions Moses frequently, often highlighting themes such as:
+The Qur’an mentions Moses frequently, often highlighting themes such as:<br>
 - Justice and moral accountability  
 - Patience under hardship  
 - Trust in God during difficult trials  
@@ -66,7 +66,7 @@ Jesus (Isa) — Peace be upon him
 
 **Approximate period:** 1st century CE<br>
 
-In Islam, **Jesus (Isa)** is honored as:
+In Islam, **Jesus (Isa)** is honored as:<br>
 - A prophet and messenger of God  
 - A teacher of faith, compassion, and righteousness  
 - A sign of God’s power, including his miraculous birth  
@@ -87,7 +87,7 @@ Muhammad — Peace be upon him
 **Approximate period:** 570–632 CE<br>
 
 In Islam, **Muhammad** is the final prophet.<br>
-Muslims believe he was sent to:
+Muslims believe he was sent to:<br>
 - Restore and clarify pure monotheism  
 - Teach the Qur’an and explain its meaning in practice  
 - Establish a community centered on worship, justice, mercy, and responsibility  
@@ -109,7 +109,7 @@ Muslims believe the **Qur’an** is the word of God revealed to Prophet Muhammad
 
 <br>
 
-Key points about the Qur’an:
+Key points about the Qur’an:<br>
 - Revealed gradually over many years  
 - Recited in Arabic (translations help convey meaning)  
 - Provides guidance on belief, worship, ethics, and daily life  

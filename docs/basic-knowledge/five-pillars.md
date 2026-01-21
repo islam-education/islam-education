@@ -24,5 +24,4 @@ The Five Pillars of Islam are the core acts of worship that shape a Muslim’s f
 <br>
 Together, these pillars provide a foundation for belief, worship, charity, self-discipline, and community in Islam.
 
----
-ISLAM-EDUCATION.COM
+--- ISLAM-EDUCATION.COM

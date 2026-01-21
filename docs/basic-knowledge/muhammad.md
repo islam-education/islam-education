@@ -17,15 +17,15 @@ Muslims believe Muhammad ﷺ:<br>
   - lived a life of humility and integrity <br> 
 
 **His Character** <br> 
-Historical accounts describe him as: <br> 
+Muslims strive to follow his example in ethics and conduct,
+not to deify him. Historical accounts describe him as: <br> 
   - truthful <br> 
   - trustworthy <br> 
   - merciful <br> 
   - patient <br> 
   - just
 
-Muslims strive to follow his example in ethics and conduct,
-not to deify him.
+
 
 **The symbol "ﷺ"**<br> 
 - is a special Unicode ligature used by Muslims <br> 
@@ -40,7 +40,7 @@ mentioned in speech or in writing <br>
 
   Common English abbreviations for this phrase include: <br> 
   - **"PBUH"** (Peace Be Upon Him) <br>
-  - ***"SAW" or "SAWS"*** (Sallallahu Alaihi Wasallam) <br> 
+  - **"SAW" or "SAWS"** (Sallallahu Alaihi Wasallam) <br> 
 
 ---
 ISLAM-EDUCATION.COM

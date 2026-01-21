@@ -9,14 +9,14 @@
   Muslims believe he is the final prophet sent by God. He is not worshipped.
   Rather, he is regarded as a messenger, just like Jesus Christ, who conveyed God's message.
 
-**His Role**
+**His Role** <br> 
 Muslims believe Muhammad ﷺ:<br> 
   - received revelation from God <br> 
   - taught monotheism <br> 
   - exemplified moral character <br> 
   - lived a life of humility and integrity <br> 
 
-**His Character**
+**His Character** <br> 
 Historical accounts describe him as: <br> 
   - truthful <br> 
   - trustworthy <br> 
@@ -27,20 +27,20 @@ Historical accounts describe him as: <br>
 Muslims strive to follow his example in ethics and conduct,
 not to deify him.
 
-**The symbol "ﷺ"**
-is a special Unicode ligature used by Muslims
-  It represents the Arabic phrase "Sallallahu Alaihi Wasallam" 
+**The symbol "ﷺ"**<br> 
+- is a special Unicode ligature used by Muslims <br> 
+- it represents the Arabic phrase **"Sallallahu Alaihi Wasallam"** <br> 
 
-This phrase is an Islamic honorific that translates to:<br> 
-  - "May Allah honor him and grant him peace" 
-  or<br> 
+**Sallallahu Alaihi Wasallam** is an Islamic honorific that translates to: <br> 
+  - "May Allah honor him and grant him peace" or <br> 
   - "Peace and blessings of Allah be upon him". <br> 
 
-Muslims use it as a sign of respect and veneration whenever the name of the Prophet Muhammad is mentioned, whether in speech or in writing, as commanded in the Quran. <br>
+Muslims use it as a sign of respect and veneration whenever the name of the Prophet Muhammad is
+mentioned in speech or in writing <br>
 
   Common English abbreviations for this phrase include: <br> 
-  - "PBUH" (Peace Be Upon Him) <br>
-  - "SAW" or "SAWS" (Sallallahu Alaihi Wasallam) <br> 
+  - **"PBUH"** (Peace Be Upon Him) <br>
+  - ***"SAW" or "SAWS"*** (Sallallahu Alaihi Wasallam) <br> 
 
 ---
 ISLAM-EDUCATION.COM

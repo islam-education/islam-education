@@ -134,10 +134,10 @@
 }
 
 .img-large {
-  max-width: 800px;
+  max-width: 600px;
 }
 
 .img-responsive {
-  width: 100%;
+  width: 50%;
   height: auto;
 }

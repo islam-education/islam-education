@@ -30,8 +30,9 @@ Different scholars use **gold or silver** as the reference, which is why you may
 
 
 
+---
 
-##Approximate Niṣāb Values (for 2026)
+##Approximate Values (2026)
 
 - **Silver niṣāb (approximate):** **$2,500 USD**  
 - **Gold niṣāb (approximate):** **$18,000 USD**
@@ -40,6 +41,7 @@ Some scholars use the **silver standard**, while others use the **gold standard*
 This difference can affect whether Zakat is due.<br> 
 These values are approximate and can change depending on market prices.
 
+---
 
 ##How Much is Zakat?
 
@@ -53,8 +55,9 @@ Zakat applies only if:
 - One full lunar year has passed  
 
 
+---
 
-##Simple Real-World Example (USD)
+##Real-World Example
 
 **Example:**  
 Ahmed has **$12,000** in savings.
@@ -62,17 +65,13 @@ Ahmed has **$12,000** in savings.
 Step 1: Compare Savings to Niṣāb
 
 - Compared to **silver niṣāb ($2,500)**  
-  - $12,000 is **above** the threshold → Zakat applies  
+  - $12,000 is **above** the threshold → Zakat applies using the **silver standard** 
 - Compared to **gold niṣāb ($18,000)**  
-  - $12,000 is **below** the threshold → Zakat does not apply  
-
-**Result:**<br>
-- Using the **silver standard** → Zakat **is required**<br>
-- Using the **gold standard** → Zakat **is not required**<br>
+  - $12,000 is **below** the threshold → Zakat does not apply using the **gold standard**
 
 
 
-Step 2: Calculate Zakat (If Due)
+Step 2: Calculate Zakat
 
 Zakat = 2.5% of savings
 = $12,000 × 0.025
@@ -80,8 +79,9 @@ Zakat = 2.5% of savings
 
 
 **Zakat due:** **$300 USD**  
-The remaining **$11,700** stays with Ahmed.
+**$11,700** stays with Ahmed.
 
+---
 
 ##Where Does Zakat Go?
 
@@ -93,6 +93,9 @@ Zakat is given to specific groups defined in Islamic teachings, including:<br>
 
 Zakat is considered a **right of the poor**, not a favor.
 
+
+---
+
 ##Key Takeaways
 
 - Zakat is **not paid on all money**, only surplus savings<br>
@@ -101,12 +104,13 @@ Zakat is considered a **right of the poor**, not a favor.
 - Zakat supports both **spiritual growth** and **social responsibility**<br>
 
 
+
+
 ---
 Simple educational overview.<br> 
 Detailed rulings may vary depending on:<br> 
 -individual circumstances<br> 
 -scholarly opinions
 ---
-
 <br>
 ISLAM-EDUCATION.COM

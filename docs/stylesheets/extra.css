@@ -1,76 +1,26 @@
-/* Hide the “Made with Material for MkDocs” footer line */
-.md-footer-meta {
-  display: none !important;
-}
+/* =========================================================
+   islam-education.com — extra.css (cleaned)
+   ========================================================= */
 
-
-.md-nav__title {
-  display: none;
-}
-
-
-
-/* Hero wrapper */
-.ie-hero {
-  margin: 1.2rem 0 1.2rem;
-  border-radius: 18px;
-  overflow: hidden;
-  box-shadow: 0 10px 30px rgba(0,0,0,.12);
-}
-
-
-}
-
-/* Optional: keep it calm in dark mode (Material theme supports data-md-color-scheme) */
-[data-md-color-scheme="slate"] .ie-hero {
-  box-shadow: 0 10px 30px rgba(0,0,0,.35);
-}
-
-
-/* Image itself */
-.ie-hero img {
-  display: block;
-  width: 100%;
-  height: auto;
-
-}
-
-.ie-hero {
-  margin: 1.2rem 0 1.2rem;
-  border-radius: 18px;
-  overflow: hidden;
-  box-shadow: 0 10px 30px rgba(0,0,0,.12);
-
-
-}
-
-.ie-hero img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center top;
-  display: block;
-}
-
-
-
-
-
-
-/* Cubism-inspired palette: warm amber + earth + muted blue */
-
-/* Top bar + highlights */
+/* ---------- Cubism-inspired palette ---------- */
 :root {
-  --md-primary-fg-color: #1f232a;       /* deep slate */
+  --md-primary-fg-color: #1f232a;                 /* deep slate */
   --md-primary-fg-color--light: #2a2f38;
   --md-primary-fg-color--dark: #15181d;
 
-  --md-accent-fg-color: #d2a24a;        /* warm amber/gold */
+  --md-accent-fg-color: #d2a24a;                  /* warm amber/gold */
   --md-accent-fg-color--transparent: rgba(210, 162, 74, 0.15);
 
-  --cubism-warm: #d2a24a;              /* amber */
-  --cubism-earth: #7a5a3a;             /* brown */
-  --cubism-muted-blue: #2f5670;        /* muted blue */
+  --cubism-warm: #d2a24a;                         /* amber */
+  --cubism-earth: #7a5a3a;                        /* brown */
+  --cubism-muted-blue: #2f5670;                   /* muted blue */
+}
+
+/* ---------- Global content styling ---------- */
+
+/* Make all content images rounded */
+.md-typeset img {
+  border-radius: 14px;
 }
 
 /* Links */
@@ -81,7 +31,7 @@
   color: #e1bb6a;
 }
 
-/* Sidebar active item + toc active item */
+/* Sidebar active item + hover */
 .md-nav__link--active,
 .md-nav__link:focus,
 .md-nav__link:hover {
@@ -96,7 +46,7 @@
   box-shadow: 0 0 0 2px rgba(210, 162, 74, 0.25);
 }
 
-/* Buttons (if you use them) */
+/* Primary button */
 .md-button--primary {
   background-color: var(--cubism-warm);
   border-color: var(--cubism-warm);
@@ -107,37 +57,40 @@
   border-color: #e1bb6a;
 }
 
-/* Optional: soften the header green if it still shows up somewhere */
+/* Header background (prevents unwanted green tint) */
 .md-header {
   background: linear-gradient(90deg, #1f232a, #232833);
 }
 
+/* ---------- Navigation / layout tweaks ---------- */
 
+/* Hide site title in sidebar */
+.md-nav__title {
+  display: none;
+}
 
+/* Hide the “Made with Material for MkDocs” footer line */
+.md-footer-meta {
+  display: none !important;
+}
 
+/* ---------- Hero image component ---------- */
 
+.ie-hero {
+  margin: 1.2rem 0;
+  border-radius: 18px;
+  overflow: hidden;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
+}
 
+[data-md-color-scheme="slate"] .ie-hero {
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+}
 
-
-
-.img-center {
+.ie-hero img {
   display: block;
-  margin: 2rem auto;
-}
-
-.img-small {
-  max-width: 400px;
-}
-
-.img-medium {
-  max-width: 600px;
-}
-
-.img-large {
-  max-width: 600px;
-}
-
-.img-responsive {
-  width: 50%;
+  width: 100%;
   height: auto;
+  object-fit: cover;
+  object-position: center top;
 }

@@ -13,27 +13,22 @@ Zakat is only required when a person’s **extra savings** reach a minimum amoun
 
 ##What is the Niṣāb?
 
-The **niṣāb** is the minimum amount of wealth a person must have before Zakat becomes obligatory.<br>
-It is traditionally calculated using the value of **gold or silver**.
-
-Niṣāb in Grams (Traditional Measurement)
-
+The **niṣāb** is the minimum amount of wealth a person must have before Zakat becomes obligatory. It is traditionally calculated using the value of **gold or silver**.<br>
 The niṣāb is originally defined in **weight**, not money. Islamic sources specify the niṣāb using **gold and silver**.
 
-Classical Islamic measurements:
-- 20 gold dinars ≈ 87.48 g of gold  
-- 200 silver dirhams ≈ 612.36 g of silver  
+Classical Islamic measurements:<br>
+- 20 gold dinars ≈ 87.48 g of gold  <br>
+- 200 silver dirhams ≈ 612.36 g of silver <br> 
 
-In modern practice, these weights are converted into local currency using current market prices.
-
- Simple Explanation
+In modern practice, these weights are converted into local currency using current market prices.<br> 
+These weights are fixed, but their currency value changes over time.<br> 
 
 - If your savings equal or exceed **about 87.5 g of gold**, the gold niṣāb is reached  
 - If your savings equal or exceed **about 612 g of silver**, the silver niṣāb is reached  
 
 Different scholars use **gold or silver** as the reference, which is why you may see two different niṣāb values.
 
-> These weights are fixed, but their currency value changes over time.
+
 
 
 ##Approximate Niṣāb Values (for 2026)
@@ -41,9 +36,9 @@ Different scholars use **gold or silver** as the reference, which is why you may
 - **Silver niṣāb (approximate):** **$2,500 USD**  
 - **Gold niṣāb (approximate):** **$18,000 USD**
 
-Some scholars use the **silver standard**, while others use the **gold standard**. This difference can affect whether Zakat is due.
-
-> These values are approximate and can change depending on market prices.
+Some scholars use the **silver standard**, while others use the **gold standard**. <br> 
+This difference can affect whether Zakat is due.<br> 
+These values are approximate and can change depending on market prices.
 
 
 ##How Much is Zakat?
@@ -71,9 +66,9 @@ Step 1: Compare Savings to Niṣāb
 - Compared to **gold niṣāb ($18,000)**  
   - $12,000 is **below** the threshold → Zakat does not apply  
 
-**Result:**
-- Using the **silver standard** → Zakat **is required**
-- Using the **gold standard** → Zakat **is not required**
+**Result:**<br>
+- Using the **silver standard** → Zakat **is required**<br>
+- Using the **gold standard** → Zakat **is not required**<br>
 
 
 
@@ -106,8 +101,11 @@ Zakat is considered a **right of the poor**, not a favor.
 - Zakat supports both **spiritual growth** and **social responsibility**<br>
 
 
-
-*This page is intended as a simple educational overview. Detailed rulings may vary depending on individual circumstances and scholarly opinions.*
+---
+Simple educational overview.<br> 
+Detailed rulings may vary depending on:<br> 
+-individual circumstances<br> 
+-scholarly opinions
 ---
 
 <br>

@@ -27,5 +27,6 @@ The word "*jihad*" means "struggle".<br>
 It can be the spiritual struggle within oneself against sin or the protection of the Islamic community in various manners.<br>
 Its primary meaning refers to personal moral effort, not warfare. <br>
 
+--- 
 <br>
 ISLAM-EDUCATION.COM

@@ -51,3 +51,64 @@
   object-position: center top;
   display: block;
 }
+
+
+
+
+
+
+/* Cubism-inspired palette: warm amber + earth + muted blue */
+
+/* Top bar + highlights */
+:root {
+  --md-primary-fg-color: #1f232a;       /* deep slate */
+  --md-primary-fg-color--light: #2a2f38;
+  --md-primary-fg-color--dark: #15181d;
+
+  --md-accent-fg-color: #d2a24a;        /* warm amber/gold */
+  --md-accent-fg-color--transparent: rgba(210, 162, 74, 0.15);
+
+  --cubism-warm: #d2a24a;              /* amber */
+  --cubism-earth: #7a5a3a;             /* brown */
+  --cubism-muted-blue: #2f5670;        /* muted blue */
+}
+
+/* Links */
+.md-typeset a {
+  color: var(--cubism-warm);
+}
+.md-typeset a:hover {
+  color: #e1bb6a;
+}
+
+/* Sidebar active item + toc active item */
+.md-nav__link--active,
+.md-nav__link:focus,
+.md-nav__link:hover {
+  color: var(--cubism-warm);
+}
+.md-nav__item .md-nav__link--active {
+  font-weight: 600;
+}
+
+/* Search focus ring */
+.md-search__form:focus-within {
+  box-shadow: 0 0 0 2px rgba(210, 162, 74, 0.25);
+}
+
+/* Buttons (if you use them) */
+.md-button--primary {
+  background-color: var(--cubism-warm);
+  border-color: var(--cubism-warm);
+  color: #111;
+}
+.md-button--primary:hover {
+  background-color: #e1bb6a;
+  border-color: #e1bb6a;
+}
+
+/* Optional: soften the header green if it still shows up somewhere */
+.md-header {
+  background: linear-gradient(90deg, #1f232a, #232833);
+}
+

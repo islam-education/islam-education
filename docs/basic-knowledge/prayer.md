@@ -7,11 +7,11 @@
 Prayer (Salah) is one of the central acts of worship in Islam.<br>
 
 Muslims perform five daily prayers at specific times throughout the day:<br>
--before dawn **(Fajr)*** <br>
--midday **(Dhur)** <br>
--afternoon **(Asr)** <br>
--after sunset **(Maghrib)** <br>
--at night **(Isha)** <br>
+-before dawn: **Fajr** <br>
+-midday: **Dhur** <br>
+-afternoon: **Asr** <br>
+-after sunset: **Maghrib** <br>
+-at night: **Isha** <br>
 
 These regular prayers structure a Muslim’s day around remembrance of God.<br>
 

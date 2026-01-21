@@ -1,3 +1,10 @@
+/* Hide the “Made with Material for MkDocs” footer line */
+.md-footer-meta {
+  display: none !important;
+}
+
+
+
 /* Hero wrapper */
 .ie-hero {
   margin: 1.2rem 0 1.2rem;

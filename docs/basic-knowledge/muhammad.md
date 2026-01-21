@@ -9,6 +9,7 @@
   Muslims believe he is the final prophet sent by God. He is not worshipped.
   Rather, he is regarded as a messenger, just like Jesus Christ, who conveyed God's message.
 
+
 **His Role** <br> 
 Muslims believe Muhammad ﷺ:<br> 
   - received revelation from God <br> 
@@ -16,10 +17,10 @@ Muslims believe Muhammad ﷺ:<br>
   - exemplified moral character <br> 
   - lived a life of humility and integrity <br> 
 
+
 **His Character** <br> 
 Muslims strive to follow his example in ethics and conduct,
 not to deify him. <br>
-
 Historical accounts describe him as: <br> 
   - truthful <br> 
   - trustworthy <br> 

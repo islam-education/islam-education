@@ -14,8 +14,8 @@ Arabic transliteration: <br>
 
 The Shahada affirms:<br>
 - absolute monotheism<br>
-- rejection of all forms of idol worship<br>
-- acceptance of divine guidance through prophets </b>
+- rejection of all forms of idol worship <br>
+- acceptance of divine guidance through prophets <br>
   (like Muhammad, Jesus, Abraham, Moses, Noah, ...)<br>
 
 By sincerely affirming this belief, a person enters Islam and all their previous sins are forgiven.

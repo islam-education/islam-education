@@ -19,4 +19,5 @@ It is intended to be beneficial today and in the future. Knowledge shared for un
 - students and educators <br>
 - Muslims and non-Muslims alike <br> 
 
---- ISLAM-EDUCATION.COM
+---
+ISLAM-EDUCATION.COM

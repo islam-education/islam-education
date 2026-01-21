@@ -108,11 +108,11 @@ Zakat is considered a **right of the poor**, not a favor.
 
 
 ---
-**Disclaimer:**
+**Disclaimer:**<br> 
 Simple educational overview!<br> 
 Detailed rulings may vary depending on:<br> 
 -individual circumstances<br> 
 -scholarly opinions
+
 ---
-<br>
 ISLAM-EDUCATION.COM

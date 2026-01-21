@@ -1,3 +1,9 @@
+<div class="misconceptions">
+  <img src="/images/misconceptions.png"
+       alt="misconceptions in islam">
+</div>
+
+
 # Common Misconceptions About Islam
 
 Islam is often misunderstood due to misinformation,
@@ -21,3 +27,5 @@ The word "*jihad*" means "struggle".
 It can be the spiritual struggle within oneself against sin or the protection of the Islamic community in various manners.
 Its primary meaning refers to personal moral effort, not warfare. 
 
+<br>
+ISLAM-EDUCATION.COM

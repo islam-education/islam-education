@@ -18,7 +18,9 @@ Muslims believe Muhammad ﷺ:<br>
 
 **His Character** <br> 
 Muslims strive to follow his example in ethics and conduct,
-not to deify him. Historical accounts describe him as: <br> 
+not to deify him. <br>
+
+Historical accounts describe him as: <br> 
   - truthful <br> 
   - trustworthy <br> 
   - merciful <br> 

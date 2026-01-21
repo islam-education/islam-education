@@ -132,3 +132,6 @@ This timeline reflects a core Islamic idea:<br>
 
 *This is a simplified educational overview.<br>
 Exact historical dates and details may vary across historical sources and religious traditions.*
+
+---
+ISLAM-EDUCATION.COM

@@ -5,14 +5,15 @@ site_url: https://islam-education.com
 theme:
   name: material
   palette:
-    - scheme: default
+  
+    - scheme: slate
       primary: green
       accent: amber
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
 
-    - scheme: slate
+    - scheme: default
       primary: green
       accent: amber
       toggle:

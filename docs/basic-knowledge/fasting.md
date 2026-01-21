@@ -6,12 +6,12 @@
 
 Fasting (Sawm) is observed during the Islamic month of Ramadan.<br>
 
-From dawn (fajr) until sunset (maghrib), adult Muslims abstain from: <br>
--Food and drink <br>
--Smoking <br>
--Marital relations <br>
+From dawn (fajr) until sunset (maghrib), adult Muslims **abstain from:** <br>
+- Food and drink <br>
+- Smoking <br>
+- Marital relations <br>
 
-Fasting is required for healthy adults, but exemptions exist for: <br>
+Fasting is required for healthy adults, but **exemptions exist for:** <br>
 - children <br>
 - the elderly<br>
 - the sick <br>
@@ -25,7 +25,7 @@ The pre-dawn meal is known as suhoor.<br>
 Ramadan is also a time of increased prayer, charity, and reading of the Qur’an.<br>
 
 
-The purpose of fasting goes beyond physical restraint and aims to: <br>
+The purpose goes beyond physical restraint and **fasting aims to:** <br>
 - Build self-discipline and patience <br>
 - Encourage gratitude for everyday blessings <br>
 - Foster empathy for those who experience hunger or hardship <br>
@@ -33,5 +33,6 @@ The purpose of fasting goes beyond physical restraint and aims to: <br>
 
 
 At the end of Ramadan, Muslims celebrate Eid al-Fitr, a festival marked by prayer, charity, and communal joy.
+
 ---
 ISLAM-EDUCATION.COM

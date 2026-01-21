@@ -42,5 +42,6 @@ Muslims use it as a sign of respect and veneration whenever the name of the Prop
   - "PBUH" (Peace Be Upon Him) <br>
   - "SAW" or "SAWS" (Sallallahu Alaihi Wasallam) <br> 
 
+---
 <br>
 ISLAM-EDUCATION.COM

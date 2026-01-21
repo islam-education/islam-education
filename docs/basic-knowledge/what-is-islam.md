@@ -34,5 +34,4 @@ Islam emphasizes accountability, compassion, and justice,
 both on a personal and social level.
 
 ---
-<br>
 ISLAM-EDUCATION.COM

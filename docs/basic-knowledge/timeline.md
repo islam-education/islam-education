@@ -19,6 +19,8 @@ It is written for beginners and avoids debate or polemics.
 
 <br><br>
 
+---
+
 Abraham (Ibrahim) — Peace be upon him
 
 <br>
@@ -38,6 +40,8 @@ Muslims also associate Abraham with:
 - Lessons about sacrifice, patience, and obedience to God  
 
 <br><br>
+
+---
 
 Moses (Musa) — Peace be upon him
 
@@ -60,6 +64,8 @@ The Qur’an mentions Moses frequently, often highlighting themes such as:
 
 <br><br>
 
+---
+
 Jesus (Isa) — Peace be upon him
 
 <br>
@@ -77,6 +83,8 @@ Muslims respect Jesus deeply and see him as part of the same prophetic mission:<
 guiding people to worship God and live ethically.
 
 <br><br>
+
+---
 
 Muhammad — Peace be upon him
 
@@ -117,6 +125,8 @@ Key points about the Qur’an:
 The Qur’an remains the central source of Islamic guidance and is memorized, recited, and studied by Muslims worldwide.
 
 <br><br>
+
+---
 
 Summary
 

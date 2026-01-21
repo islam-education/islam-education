@@ -11,7 +11,7 @@ Zakat is only required when a person’s **extra savings** reach a minimum amoun
 
 ---
 
-##What is the Niṣāb?
+What is the Niṣāb?
 
 The **niṣāb** is the minimum amount of wealth a person must have before Zakat becomes obligatory. It is traditionally calculated using the value of **gold or silver**.<br>
 The niṣāb is originally defined in **weight**, not money. Islamic sources specify the niṣāb using **gold and silver**.
@@ -32,7 +32,7 @@ Different scholars use **gold or silver** as the reference, which is why you may
 
 ---
 
-##Approximate Values (2026)
+Approximate Values (2026)
 
 - **Silver niṣāb (approximate):** **$2,500 USD**  
 - **Gold niṣāb (approximate):** **$18,000 USD**
@@ -43,7 +43,7 @@ These values are approximate and can change depending on market prices.
 
 ---
 
-##How Much is Zakat?
+How Much is Zakat?
 
 For common "zakatable" wealth such as **cash, savings, and similar assets**, the Zakat rate is:
 
@@ -57,7 +57,7 @@ Zakat applies only if:<br>
 
 ---
 
-##Real-World Example
+Real-World Example
 
 **Example:**  
 Ahmed has **$12,000** in savings.
@@ -84,7 +84,7 @@ Zakat = 2.5% of savings
 
 ---
 
-##Where Does Zakat Go?
+Where Does Zakat Go?
 
 Zakat is given to specific groups defined in Islamic teachings, including:<br>
 - The poor and needy<br>
@@ -97,7 +97,7 @@ Zakat is considered a **right of the poor**, not a favor.
 
 ---
 
-##Key Takeaways
+Key Takeaways
 
 - Zakat is **not paid on all money**, only surplus savings<br>
 - Eligibility depends on reaching the **niṣāb**<br>

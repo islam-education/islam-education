@@ -3,8 +3,11 @@ site_description: Clear, authentic and accessible knowledge about Islam
 site_url: https://islam-education.com
 
 theme:
-  name: material
+  name: readthedocs
   language: en
+   palette:
+    primary: green
+    accent: amber
 
 
 extra_css:

@@ -3,19 +3,13 @@
        alt="timeline of prophets and revelations">
 </div>
 
-
-
-Timeline (Simple Overview)
-
-<br>
-
 This page provides a **simple, neutral timeline** of key figures and events connected to the Islamic understanding of prophethood and revelation.<br>
 It is written for beginners and avoids debate or polemics.
 
 <br>
 
-> In Islam, **prophets** were sent to guide people to worship one God and live morally responsible lives.<br>
-> Muslims honor many of the same prophetic figures known in Judaism and Christianity.
+In Islam, **prophets** were sent to guide people to worship one God and live morally responsible lives.<br>
+Muslims honor many of the same prophetic figures known in Judaism and Christianity.
 
 <br><br>
 

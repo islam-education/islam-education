@@ -4,6 +4,15 @@ site_url: https://islam-education.com
 
 theme:
   name: material
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+    - toc.integrate: false
+    - footer.hide_generator
+    
   palette:
   
     - scheme: slate
@@ -20,7 +29,7 @@ theme:
         icon: material/weather-sunny
         name: Switch to light mode
 
- 
+
     
 
 extra_css:

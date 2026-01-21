@@ -49,10 +49,10 @@ For common "zakatable" wealth such as **cash, savings, and similar assets**, the
 
 **2.5% of Zakatable wealth**
 
-Zakat applies only if:
-- The niṣāb is reached  
-- The wealth is surplus (not needed for daily living)  
-- One full lunar year has passed  
+Zakat applies only if:<br>
+- The niṣāb is reached  <br>
+- The wealth is surplus (not needed for daily living)  <br>
+- One full lunar year has passed  <br>
 
 
 ---
@@ -62,16 +62,17 @@ Zakat applies only if:
 **Example:**  
 Ahmed has **$12,000** in savings.
 
-Step 1: Compare Savings to Niṣāb
+**Step 1:** Compare Savings to Niṣāb
 
 - Compared to **silver niṣāb ($2,500)**  
-  - $12,000 is **above** the threshold → Zakat applies using the **silver standard** 
+  - $12,000 is **above** the threshold → Zakat applies using the **silver standard** <br>
+  
 - Compared to **gold niṣāb ($18,000)**  
   - $12,000 is **below** the threshold → Zakat does not apply using the **gold standard**
 
 
 
-Step 2: Calculate Zakat
+**Step 2:** Calculate Zakat
 
 Zakat = 2.5% of savings
 = $12,000 × 0.025
@@ -107,7 +108,8 @@ Zakat is considered a **right of the poor**, not a favor.
 
 
 ---
-Simple educational overview.<br> 
+**Disclaimer:**
+Simple educational overview!<br> 
 Detailed rulings may vary depending on:<br> 
 -individual circumstances<br> 
 -scholarly opinions

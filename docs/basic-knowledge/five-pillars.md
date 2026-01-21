@@ -13,3 +13,6 @@ The Five Pillars of Islam are the core acts of worship that shape a Muslim’s f
 5) Hajj (Pilgrimage) – Making a pilgrimage to Mecca once in a lifetime if physically and financially able.<br>
    
 Together, these pillars provide a foundation for belief, worship, charity, self-discipline, and community in Islam.
+
+---
+ISLAM-EDUCATION.COM

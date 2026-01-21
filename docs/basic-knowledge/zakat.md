@@ -4,15 +4,14 @@
 </div>
 
 
-**Zakat** is a required form of charity in Islam. <br>
-The word *Zakat* comes from Arabic and carries meanings such as **purification** and **growth**.<br>
-Muslims give Zakat as an act of worship and as a way to support people in need.<br>
-
+**Zakat** is a required form of charity in Islam
+The word *Zakat* comes from Arabic and carries meanings such as **purification** and **growth**.
+Muslims give Zakat as an act of worship and as a way to support people in need.
 Zakat is only required when a person’s **extra savings** reach a minimum amount called the **niṣāb** and remain above it for **one lunar year**. <br>
 
 ---
 
-What is the Niṣāb?
+##What is the Niṣāb?
 
 The **niṣāb** is the minimum amount of wealth a person must have before Zakat becomes obligatory.<br>
 It is traditionally calculated using the value of **gold or silver**.
@@ -37,7 +36,7 @@ Different scholars use **gold or silver** as the reference, which is why you may
 > These weights are fixed, but their currency value changes over time.
 
 
-Approximate Niṣāb Values (for 2026)
+##Approximate Niṣāb Values (for 2026)
 
 - **Silver niṣāb (approximate):** **$2,500 USD**  
 - **Gold niṣāb (approximate):** **$18,000 USD**
@@ -47,7 +46,7 @@ Some scholars use the **silver standard**, while others use the **gold standard*
 > These values are approximate and can change depending on market prices.
 
 
-How Much is Zakat?
+##How Much is Zakat?
 
 For common "zakatable" wealth such as **cash, savings, and similar assets**, the Zakat rate is:
 
@@ -60,7 +59,7 @@ Zakat applies only if:
 
 
 
-Simple Real-World Example (USD)
+##Simple Real-World Example (USD)
 
 **Example:**  
 Ahmed has **$12,000** in savings.
@@ -89,7 +88,7 @@ Zakat = 2.5% of savings
 The remaining **$11,700** stays with Ahmed.
 
 
-Where Does Zakat Go?
+##Where Does Zakat Go?
 
 Zakat is given to specific groups defined in Islamic teachings, including:<br>
 - The poor and needy<br>
@@ -99,17 +98,17 @@ Zakat is given to specific groups defined in Islamic teachings, including:<br>
 
 Zakat is considered a **right of the poor**, not a favor.
 
-Key Takeaways
+##Key Takeaways
 
 - Zakat is **not paid on all money**, only surplus savings<br>
 - Eligibility depends on reaching the **niṣāb**<br>
 - The standard rate is **2.5%**<br>
 - Zakat supports both **spiritual growth** and **social responsibility**<br>
 
----
+
 
 *This page is intended as a simple educational overview. Detailed rulings may vary depending on individual circumstances and scholarly opinions.*
-
+---
 
 <br>
 ISLAM-EDUCATION.COM

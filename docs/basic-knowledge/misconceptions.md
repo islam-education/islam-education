@@ -28,5 +28,4 @@ It can be the spiritual struggle within oneself against sin or the protection of
 Its primary meaning refers to personal moral effort, not warfare. <br>
 
 --- 
-<br>
 ISLAM-EDUCATION.COM

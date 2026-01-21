@@ -6,10 +6,8 @@ theme:
   name: material
   features:
     - navigation.instant
-    - navigation.tabs
-    - navigation.sections
     - navigation.top
-    - content.code.copy
+    - navigation.sections
     - toc.integrate: false
     - footer.hide_generator
     

@@ -112,3 +112,32 @@
   background: linear-gradient(90deg, #1f232a, #232833);
 }
 
+
+
+
+
+
+
+
+
+.img-center {
+  display: block;
+  margin: 2rem auto;
+}
+
+.img-small {
+  max-width: 400px;
+}
+
+.img-medium {
+  max-width: 600px;
+}
+
+.img-large {
+  max-width: 800px;
+}
+
+.img-responsive {
+  width: 100%;
+  height: auto;
+}

@@ -4,6 +4,7 @@ site_url: https://islam-education.com
 
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.instant
     - navigation.top

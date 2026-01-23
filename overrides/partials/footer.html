@@ -1,0 +1,17 @@
+{{ super() }}
+
+<div style="text-align:center; font-size:0.85em; padding:0.75rem; opacity:0.8;">
+  Total visitors:
+  <strong id="gc-visits">loading…</strong>
+</div>
+
+<script>
+fetch("https://islam-education.goatcounter.com/counter")
+  .then(r => r.json())
+  .then(d => {
+    document.getElementById("gc-visits").textContent = d.count;
+  })
+  .catch(() => {
+    document.getElementById("gc-visits").textContent = "—";
+  });
+</script>

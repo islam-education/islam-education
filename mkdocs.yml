@@ -38,6 +38,7 @@ extra_css:
 
 
 nav:
+      - Ramadan 2026: basic-knowledge/Ramadan 2026.md
       - Home: index.md
       - What is Islam?: basic-knowledge/what-is-islam.md
       - Who is Muhammad ﷺ?: basic-knowledge/muhammad.md
@@ -50,6 +51,7 @@ nav:
       - Pilgrimage: basic-knowledge/pilgrimage.md
       - Common Misconceptions: basic-knowledge/misconceptions.md
       - Timeline: basic-knowledge/timeline.md
+      - About: docs/about.md
 
 
 extra_javascript:

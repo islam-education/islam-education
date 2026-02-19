@@ -1,3 +1,8 @@
+<div id="ramadan-widget" style="padding:12px 14px;border:1px solid #e5e7eb;border-radius:12px">
+  <div id="ramadan-line1" style="font-weight:600"></div>
+  <div id="ramadan-line2" style="margin-top:6px;opacity:.85"></div>
+</div>
+
 <div class="home">
   <img src="/images/islam-education-hero.png"
        alt="Geometric illustration representing Islamic education and learning">

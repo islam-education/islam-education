@@ -30,7 +30,7 @@ In Islamic teachings, actions fall into five main categories:
 
 In Islam, only Allah has the authority to declare something haram.
 
-> “Do not falsely declare with your tongues, “This is lawful, and that is unlawful,” ˹only˺ fabricating lies against Allah. Indeed, those who fabricate lies against Allah will never succeed.”  
+> “Do not falsely declare with your tongues, “This is lawful, and that is unlawful,” (only) fabricating lies against Allah. Indeed, those who fabricate lies against Allah will never succeed.”  
 > — Qur'an 16:116
 
 Muslims rely on two primary sources:

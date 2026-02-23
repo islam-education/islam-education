@@ -1,4 +1,4 @@
-
+# Haram in Islam
 
 
 <div class="haram">
@@ -8,7 +8,7 @@
 </div>
 
 
-# Haram in Islam
+
 
 ## Definition
 
@@ -30,7 +30,7 @@ In Islamic teachings, actions fall into five main categories:
 
 In Islam, only Allah has the authority to declare something haram.
 
-> “Do not say, concerning the falsehood your tongues describe: ‘This is lawful and this is unlawful,’ inventing lies against Allah.”  
+> “Do not falsely declare with your tongues, “This is lawful, and that is unlawful,” ˹only˺ fabricating lies against Allah. Indeed, those who fabricate lies against Allah will never succeed.”  
 > — Qur'an 16:116
 
 Muslims rely on two primary sources:

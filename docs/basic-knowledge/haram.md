@@ -245,4 +245,5 @@ Islam teaches that obedience to Allah leads to success in this life and the next
 - repentance.md
 - major-sins.md
 
-
+---
+ISLAM-EDUCATION.COM

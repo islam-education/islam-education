@@ -1,3 +1,13 @@
+
+
+
+<div class="haram">
+  <img src="/images/haram.png"
+       alt="A Cubist-style digital illustration in warm earthy tones shows a fragmented geometric scene containing multiple symbolic panels, including forbidden foods such as pork, blood, and alcohol on a table, two women whispering to each other representing gossip, a partially uncovered female figure symbolizing nudity and lack of modesty, a child angrily pointing and shouting at elderly parents to represent disrespect, gambling elements like dice and poker chips, a hand exchanging money suggesting theft or bribery, and a central financial composition of stacked coins, a money bag with a dollar symbol, a percentage sign, buildings, and a car representing riba (interest/usury), all unified within an abstract mosaic of angular shapes that conveys the concept of prohibited actions in Islam without using text or explicit prohibition symbols.
+">
+</div>
+
+
 # Haram in Islam
 
 ## Definition
@@ -229,13 +239,10 @@ Islam teaches that obedience to Allah leads to success in this life and the next
 
 ---
 
-## See Also
+## related topics on this website
 
-- halal.md
+- halal
 - repentance.md
 - major-sins.md
 
----
-
-*This page provides a general overview. Detailed rulings may vary depending on scholarly interpretation and context.*
 

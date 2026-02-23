@@ -38,7 +38,7 @@ extra_css:
 
 nav:
 
-      - Index: index.md
+      - Home: index.md
       - What is Islam?: basic-knowledge/what-is-islam.md
       - Who is Muhammad ﷺ?: basic-knowledge/muhammad.md
       - The Qur’an: basic-knowledge/quran.md

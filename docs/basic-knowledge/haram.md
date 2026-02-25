@@ -49,7 +49,7 @@ Below are major categories of haram actions clearly prohibited in Islam.
 Shirk is the greatest sin in Islam. It means worshipping others besides Allah or associating partners with Him.
 
 > “Indeed, Allah does not forgive associating others with Him (in worship), but forgives anything else of whoever He wills. And whoever associates others with Allah has indeed committed a grave sin.”  
-> — Qur'an 4:48
+> — Qur'an 4:48 
 
 Examples:
 
@@ -63,7 +63,7 @@ Examples:
 
 Taking innocent life is strictly forbidden.
 
-> “Whoever kills a soul unjustly… it is as if he had killed all mankind.”  
+> “Whoever kills a soul unjustly... it is as if he had killed all mankind.”  
 > — Qur'an 5:32
 
 Islam protects human life, dignity, and safety.
